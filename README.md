@@ -1,6 +1,6 @@
 # HTML/CSS/JS Template for CS1
 
-This repository provides a simple **web development template** with `HTML`/`CSS`/`JS` starter code. For **project instructions** and **helpful resources**, refer to our course website: 📖 [WebDocs](https://coderina.dev/webdocs/)
+This repository provides a simple **web development template** with `HTML`/`CSS`/`JS` starter code. You can create your own copy by clicking `Fork` whenever you need to start a new HTML/CSS/JS program. For **unit notes** and **helpful resources**, refer to our course website: 📖 [WebDocs](https://coderina.dev/webdocs/)
 
 > ⚠️ _DO NOT modify the following files:_ `.devcontainer`, `.vscode`, `codeswing.json`.
 
