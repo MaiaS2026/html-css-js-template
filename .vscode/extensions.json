@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"dbaeumer.vscode-eslint",
+		"esbenp.prettier-vscode",
+		"fabiospampinato.vscode-monokai-night",
+		"codespaces-contrib.codeswing",
+		"streetsidesoftware.code-spell-checker"
+	],
+
+}
